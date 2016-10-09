@@ -3,4 +3,4 @@
 * Sai Granhdi
 * Yunpeng Xia
 * Jonathan Rodiger
-This repository contains code of team 2, working on React Native project.
+#This repository contains code of team 2, working on React Native project.
