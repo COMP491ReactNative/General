@@ -2,5 +2,4 @@
 * Khanh Pham
 * Sai Granhdi
 * Jonathan Rodiger
-* Sai Granhdi
 * Yunpeng Xia
